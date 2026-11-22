@@ -2,7 +2,7 @@
 
 This repository hosts the privacy policy for **Pixel Swarm**, a pixel-art survival game with up to 8-player co-op.
 
-**Read the policy:** https://YOUR-GITHUB-NAME.github.io/pixel-swarm-privacy/
+**Read the policy:** https://entity8492.github.io/pixel-swarm-privacy/
 
 **Get the game:** https://zenerationzero.itch.io/pixel-swarm
 
